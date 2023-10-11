@@ -1,0 +1,6 @@
+[book]
+authors = ["Saynox, phnix-dev"]
+language = "en"
+multilingual = false
+src = "markdown_source"
+title = "Unreal Engine 5 Book"

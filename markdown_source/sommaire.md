@@ -1,6 +1,6 @@
 # Sommaire
 
-[Introduction](./introduction.md)
+## [Introduction](./introduction.md)
 
 > Epic Game Launcher & Unreal Engine
 
